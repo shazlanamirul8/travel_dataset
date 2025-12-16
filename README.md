@@ -31,7 +31,7 @@ As my first step, I will do data cleaning such as
 
 ![popular_destination](popular_destination.png)
 
-Summary
+**Summary**
 Paris stands out as the top destination in this dataset.
 
 
@@ -67,8 +67,47 @@ Top Destination based on Gender and Age Group
 
 ![segmentation](segmentation.png)
 
-Summary
+**Summary**
 - Paris is the most popular destination for 30-40 age group, with an equal split male and female.
 - Tokyo attracts more young female travellers.
 - Female with over 40 do not really travel to top destination.
 ---
+
+## 4. Cost Analysis
+
+### a. Accomodation Cost Comparison
+|**Accomodation Type**|**Avg. of Accomodation Cost**|
+|---------------------|-----------------------------|
+|**Resort**|$1521.43|
+|**Hotel**|$1491.47|
+|**Villa**|$1425.00|
+|**Airbnb**|$1181.67|
+|**Vacation Rental**|$900.00|
+|**Hostel**|$622.08|
+|**Riad**|$600.00|
+|**Guesthouse**|$400.00|
+
+![accom_cost](accom_cost.png)
+
+**Summary**
+
+Guesthouse is the cheapest accomodation option for all travellers whilst resort would cost the most, followed closely by hotel and villa.
+
+### b. Transportation Cost Comparison
+|**Transportation Type**|**Avg. of Transportation Cost**|
+|-----------------------|-------------------------------|
+|**Flight**|$883.33|
+|**Car**|$509.38|
+|**Train**|$344.59|
+|**Ferry**|$150.00|
+|**Bus**|$70.83|
+|**Subway**|$20.00|
+
+![transport](transport_cost.png)
+
+**Summary**
+
+Flight is the most expensive transportation option for travelers, with car travel as the second most costly. The cost difference between flight and car is substantial.
+
+### c. Relationship Analysis
+
