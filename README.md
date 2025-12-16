@@ -29,12 +29,24 @@ As my first step, I will do data cleaning such as
 |**Sydney** | 12 |
 |**Tokyo** | 12 |
 
+![popular_destination](popular_destination.png)
+
+Summary
+Paris stands out as the top destination in this dataset.
+
+
 **Most Common Tranport Type**
 |Tranport Type | Trips |
 |--------------|-------|
-|**Planes** | 75 |
+|**Flight** | 75 |
 |**Train** | 37 |
 |**Car** | 16 |
+
+![popular_transportation](popular_transportation.png)
+
+Summary
+- Travelling by flight is the most used transportation compare to other types with 75 trips in total.
+- Train comes in second with 37 trips only.
 ---
 ## 3. Segmentation
 Top Destination based on Gender and Age Group
@@ -52,6 +64,8 @@ Top Destination based on Gender and Age Group
 |**Tokyo**|Under 30|4|6|
 |         |30-40|0|1|
 |         |Over 40|1|0|
+
+![segmentation](segmentation.png)
 
 Summary
 - Paris is the most popular destination for 30-40 age group, with an equal split male and female.
