@@ -19,7 +19,7 @@ As my first step, I will do data cleaning such as
 |**Total Trips** | 139 |
 |**Avg. Duration (days)** | 8 |
 |**Avg. Accomodation Cost** | $1330.00 |
-|**Avg. Tranportation Cost** | $672.57 |
+|**Avg. Transportation Cost** | $672.57 |
 
 **Top Destinations**
 | City | Trips|
@@ -110,4 +110,16 @@ Guesthouse is the cheapest accomodation option for all travellers whilst resort 
 Flight is the most expensive transportation option for travelers, with car travel as the second most costly. The cost difference between flight and car is substantial.
 
 ### c. Relationship Analysis
+![cost_relationship](cost_relationship.png)
+
+**Summary**
+
+- Most destinations have both accommodation and transportation costs in a moderate range.
+- There is a weak positive relationship: destinations that cost more for accommodation often also cost more for transportation, but this pattern is not very strong.
+- The dots are scattered—spread out and not forming a clear line—meaning there are many exceptions.
+- A few destinations stand out as outliers with very high costs for both accommodation and transportation.
+
+---
+
+## 5. The Final Dashboard
 
