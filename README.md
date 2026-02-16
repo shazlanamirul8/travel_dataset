@@ -122,4 +122,4 @@ Flight is the most expensive transportation option for travelers, with car trave
 ---
 
 ## 5. The Final Dashboard
-
+![dashboard](dashboard.png)
