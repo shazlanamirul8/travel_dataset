@@ -123,3 +123,17 @@ Flight is the most expensive transportation option for travelers, with car trave
 
 ## 5. The Final Dashboard
 ![dashboard](dashboard.png)
+
+## Project Resources
+
+1. Original File  
+[Download Travel Dataset (CSV)](Travel%20details%20dataset.csv)
+
+2. Post-Analysis File  
+[Download Post-Analysis Travel Dataset (XLSX)](Travel%20details%20dataset%20(post%20analysis).xlsx)
+
+## About Me
+Hi! I’m **Shazlan Amirul**, a Quality Assurance Analyst exploring the world of **Data Analytics and Business Intelligence**.  
+I’m passionate about transforming raw data into insights that drive decisions.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/shazlanamirulhasan/) or check out more of my projects on [GitHub](https://github.com/shazlanamirul8)
